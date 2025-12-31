@@ -15,6 +15,7 @@ const data = [
     { id: 8, title: 'Have a nice breakfast', order: 9, completed: false, createdOn: new Date() },
     { id: 9, title: 'Have a nice reading', order: 10, completed: false, createdOn: new Date() },
     { id: 10, title: 'Have a nice reading newspaper', order: 11, completed: false, createdOn: new Date() },
+    { id: 11, title: 'Have a nice reading book', order: 12, completed: false, createdOn: new Date() },
 ];
 
 // READ
